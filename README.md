@@ -369,11 +369,11 @@ Includes:
 
 ### Executive Overview
 
-![Overview Dashboard](dashboard/screenshots/overview.png)
+![Overview Dashboard](Dasboards/screenshots/Dashboard overview.jpg)
 
 ### Economic & Digital Analysis
 
-![Economic and Digital Analysis](dashboard/screenshots/economic-digital-analysis.png)
+![Economic and Digital Analysis](Dasboards/screenshots/dashboard-economic-digital.png.jpg)
 
 ### Cloud Pipeline & Data Quality
 
